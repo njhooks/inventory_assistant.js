@@ -1,1 +1,1 @@
-in progress
+Hello, here's a business example of inventory. 
